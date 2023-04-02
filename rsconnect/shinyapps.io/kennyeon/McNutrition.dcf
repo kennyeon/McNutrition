@@ -1,0 +1,13 @@
+name: McNutrition
+title: McNutrition
+username:
+account: kennyeon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8742341
+bundleId: 7037860
+url: https://kennyeon.shinyapps.io/McNutrition/
+when: 1680408673.78725
+lastSyncTime: 1680408673.78726
+asMultiple: FALSE
+asStatic: FALSE
